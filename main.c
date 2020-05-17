@@ -13,3 +13,9 @@ Initial Security()
 
 
 }
+//Adding  Deleting  logic
+Delete()
+}
+C=3
+D=4
+}

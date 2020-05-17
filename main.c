@@ -13,3 +13,9 @@ Initial Security()
 
 
 }
+//Adding the feature 1(Public)
+Update functionality()
+{
+A=1
+B=2
+}
